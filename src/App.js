@@ -1,7 +1,7 @@
 import React from 'react';
-import './App.Css';
-
+import './App.css'; 
 import LoginForm from './Components/LoginForm';
+
 
 const App = () => {
   return (
