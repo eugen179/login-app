@@ -6,7 +6,7 @@ const LoginForm = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    if (username === 'admin' && password === 'password') {
+    if (username === 'Eugy' && password === 'Kamau') {
       setError('');
       alert('Login Successful');
     } else {
